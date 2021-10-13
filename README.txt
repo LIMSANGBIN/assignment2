@@ -1,0 +1,1 @@
+Assignment 2 is about data scraping with R and python using rvest(R), BeautifulSoup(python), RSelenium(R) and Selenium(python) and lot more
